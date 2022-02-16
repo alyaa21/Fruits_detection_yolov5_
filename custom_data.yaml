@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/OID/Dataset/images/train
+val: /content/drive/MyDrive/OID/Dataset/images/valid
+nc: 3
+names: ['Apple', 'Orange', 'Tomato']
